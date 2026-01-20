@@ -37,6 +37,7 @@ rearrange these labs and events to fit your needs.
 
 - [ ] Module 02, 01/16 - 01/20 : Data and Visualization
 
+  - Finish Lab 2 by 1/23
   - Propose your contract to Mason by Friday: 01/20
 
 - [ ] Module 03, 01/23 - 01/27 : Grammar of data wrangling
