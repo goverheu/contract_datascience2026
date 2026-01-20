@@ -33,11 +33,11 @@ rearrange these labs and events to fit your needs.
 - [ ] Module 01, 01/09 - 01/13 : What is Data Science and Meet the
   Toolkit
 
-  - Finish Lab 1 by Friday: 01/13
+  - Finish Lab 1 by Tuesday: 01/20
 
 - [ ] Module 02, 01/16 - 01/20 : Data and Visualization
 
-  - Finish Lab 2 by Friday: 01/20
+  - Finish Lab 2 by Friday: 01/23
   - Propose your contract to Mason by Friday: 01/20
 
 - [ ] Module 03, 01/23 - 01/27 : Grammar of data wrangling
