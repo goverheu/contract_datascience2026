@@ -1,12 +1,12 @@
 Grading Contract
 ================
-January 12 2023
+January 20 2026
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
 # Contract Grades – “A” Contract
 
-I, Tukey Cat, agree to :
+I, Graham Overheu, agree to :
 
 1)  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
     specified below.
@@ -33,11 +33,10 @@ rearrange these labs and events to fit your needs.
 - [ ] Module 01, 01/09 - 01/13 : What is Data Science and Meet the
   Toolkit
 
-  - Finish Lab 1 by Tuesday: 01/20
+  - Finish Lab 1 by Friday: 01/13
 
 - [ ] Module 02, 01/16 - 01/20 : Data and Visualization
 
-  - Finish Lab 2 by Friday: 01/23
   - Propose your contract to Mason by Friday: 01/20
 
 - [ ] Module 03, 01/23 - 01/27 : Grammar of data wrangling
